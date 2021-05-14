@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a2abaeb454bc15b333cb53b5efcd838",
+    "revision": "286ed3f1579e6281f1f840484e263916",
     "url": "/schizo-website/index.html"
   },
   {
-    "revision": "9fc97b748be0c3f15b83",
+    "revision": "a3ebd78e530962b46f4b",
     "url": "/schizo-website/static/css/main.f037c2ae.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/schizo-website/static/js/2.b9f9632c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fc97b748be0c3f15b83",
-    "url": "/schizo-website/static/js/main.bcc20af3.chunk.js"
+    "revision": "a3ebd78e530962b46f4b",
+    "url": "/schizo-website/static/js/main.bb2e7258.chunk.js"
   },
   {
     "revision": "a3539bbd70af5d99b34b",
