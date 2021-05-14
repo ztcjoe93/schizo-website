@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/schizo-website/precache-manifest.46a7392f978792e13e93a43f84e332e6.js"
+  "/schizo-website/precache-manifest.ce6efc7676c39e8aebbd2bda59ff8453.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/schizo-website/static/css/main.f037c2ae.chunk.css",
-    "main.js": "/schizo-website/static/js/main.bb2e7258.chunk.js",
-    "main.js.map": "/schizo-website/static/js/main.bb2e7258.chunk.js.map",
+    "main.js": "/schizo-website/static/js/main.da937202.chunk.js",
+    "main.js.map": "/schizo-website/static/js/main.da937202.chunk.js.map",
     "runtime-main.js": "/schizo-website/static/js/runtime-main.90fcc103.js",
     "runtime-main.js.map": "/schizo-website/static/js/runtime-main.90fcc103.js.map",
-    "static/js/2.b9f9632c.chunk.js": "/schizo-website/static/js/2.b9f9632c.chunk.js",
-    "static/js/2.b9f9632c.chunk.js.map": "/schizo-website/static/js/2.b9f9632c.chunk.js.map",
+    "static/js/2.41fe51bf.chunk.js": "/schizo-website/static/js/2.41fe51bf.chunk.js",
+    "static/js/2.41fe51bf.chunk.js.map": "/schizo-website/static/js/2.41fe51bf.chunk.js.map",
     "index.html": "/schizo-website/index.html",
-    "precache-manifest.46a7392f978792e13e93a43f84e332e6.js": "/schizo-website/precache-manifest.46a7392f978792e13e93a43f84e332e6.js",
+    "precache-manifest.ce6efc7676c39e8aebbd2bda59ff8453.js": "/schizo-website/precache-manifest.ce6efc7676c39e8aebbd2bda59ff8453.js",
     "service-worker.js": "/schizo-website/service-worker.js",
     "static/css/main.f037c2ae.chunk.css.map": "/schizo-website/static/css/main.f037c2ae.chunk.css.map",
-    "static/js/2.b9f9632c.chunk.js.LICENSE.txt": "/schizo-website/static/js/2.b9f9632c.chunk.js.LICENSE.txt",
+    "static/js/2.41fe51bf.chunk.js.LICENSE.txt": "/schizo-website/static/js/2.41fe51bf.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/schizo-website/static/media/illustration-section-02.cfe34f51.svg",
     "static/media/display1.png": "/schizo-website/static/media/display1.d985e4c9.png",
     "static/media/display2.png": "/schizo-website/static/media/display2.5fe17d32.png",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.90fcc103.js",
-    "static/js/2.b9f9632c.chunk.js",
+    "static/js/2.41fe51bf.chunk.js",
     "static/css/main.f037c2ae.chunk.css",
-    "static/js/main.bb2e7258.chunk.js"
+    "static/js/main.da937202.chunk.js"
   ]
 }
