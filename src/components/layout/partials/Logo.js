@@ -19,13 +19,11 @@ const Logo = ({
       className={classes}
     >
       <h1 className="m-0">
-        <Link to="/">
-          <Image
-            src={require('./../../../assets/images/studiologo_black.jpeg')}
-            alt="Open"
-            width={125}
-            height={58} />
-        </Link>
+        <Image
+          src={require('./../../../assets/images/studiologo_black.jpeg')}
+          alt="Open"
+          width={125}
+          height={58} />
       </h1>
     </div>
   );
