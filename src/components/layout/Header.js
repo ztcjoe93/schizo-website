@@ -85,7 +85,6 @@ const Header = ({
             'site-header-inner',
             bottomDivider && 'has-bottom-divider'
           )}>
-          <Logo />
           {!hideNav &&
             <>
               <button
@@ -117,7 +116,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Download</Link>
+                        <a href="https://drive.google.com/file/d/1JCj62np3Ctb_JET3mtf08ukfO2AAouPz/view" target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Download</a>
                       </li>
                     </ul>}
                 </div>

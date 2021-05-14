@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/display1.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Immersive Environment
                   </h3>
                 <p className="m-0">
-                  Using a combination of lighting, textures and sounds, always find yourself nervous about who or what is at the next corner...
+                  Using a combination of lighting, textures and sounds, always find yourself nervous about who or what is around the next corner...
                   </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/display2.png')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/display3.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
