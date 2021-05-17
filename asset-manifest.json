@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/schizo-website/static/css/main.f037c2ae.chunk.css",
-    "main.js": "/schizo-website/static/js/main.da937202.chunk.js",
-    "main.js.map": "/schizo-website/static/js/main.da937202.chunk.js.map",
+    "main.js": "/schizo-website/static/js/main.e4ab02b1.chunk.js",
+    "main.js.map": "/schizo-website/static/js/main.e4ab02b1.chunk.js.map",
     "runtime-main.js": "/schizo-website/static/js/runtime-main.90fcc103.js",
     "runtime-main.js.map": "/schizo-website/static/js/runtime-main.90fcc103.js.map",
     "static/js/2.41fe51bf.chunk.js": "/schizo-website/static/js/2.41fe51bf.chunk.js",
     "static/js/2.41fe51bf.chunk.js.map": "/schizo-website/static/js/2.41fe51bf.chunk.js.map",
     "index.html": "/schizo-website/index.html",
-    "precache-manifest.ce6efc7676c39e8aebbd2bda59ff8453.js": "/schizo-website/precache-manifest.ce6efc7676c39e8aebbd2bda59ff8453.js",
+    "precache-manifest.81b163773305879e94653ca0c1a2c5be.js": "/schizo-website/precache-manifest.81b163773305879e94653ca0c1a2c5be.js",
     "service-worker.js": "/schizo-website/service-worker.js",
     "static/css/main.f037c2ae.chunk.css.map": "/schizo-website/static/css/main.f037c2ae.chunk.css.map",
     "static/js/2.41fe51bf.chunk.js.LICENSE.txt": "/schizo-website/static/js/2.41fe51bf.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.90fcc103.js",
     "static/js/2.41fe51bf.chunk.js",
     "static/css/main.f037c2ae.chunk.css",
-    "static/js/main.da937202.chunk.js"
+    "static/js/main.e4ab02b1.chunk.js"
   ]
 }
